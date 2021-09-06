@@ -1,5 +1,7 @@
 #Environments
 Airties
+
+#Others
 .dist
 *.sqlite
 *.pdf
