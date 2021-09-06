@@ -1,5 +1,14 @@
 # Airties Assesment
 
+Python Version 3.9
+
+### Installation 
+ **Windows**
+   
+	py -3.9 -m venv venv
+	venv/Scripts/activate
+	pip install -r requirements.txt
+
 ### 1. Problem - DayOfWeek
  
 - Days of the week are represented as three-letter strings ("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun").
@@ -55,4 +64,5 @@
   6. You will see datas from DB like this: 
 
 
-	![S.a](ReadmeDocs/json.jpg)
+	![](ReadmeDocs/json.jpg)
+
